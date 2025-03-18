@@ -1,0 +1,48 @@
+Starting TRC file detection...
+Process Name: BrainQuickAgent, Process ID: 14328
+Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+BrainQuickAgent Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+No TRC file reference found in BrainQuickAgent command line.
+Final Result: No TRC file detected.
+Starting TRC file detection...
+Process Name: BrainQuickAgent, Process ID: 14328
+Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+BrainQuickAgent Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+No TRC file reference found in BrainQuickAgent command line.
+Final Result: No TRC file detected.
+Detected TRC file from Brain Quick: 
+Error: No TRC file found in Brain Quick.
+Starting TRC file detection...
+Process Name: BrainQuickAgent, Process ID: 14328
+Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+BrainQuickAgent Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+No TRC file reference found in BrainQuickAgent command line.
+Final Result: No TRC file detected.
+Starting TRC file detection...
+Process Name: BrainQuickAgent, Process ID: 14328
+Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+BrainQuickAgent Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+No TRC file reference found in BrainQuickAgent command line.
+Final Result: No TRC file detected.
+Detected TRC file from Brain Quick: 
+Error: No TRC file found in Brain Quick.
+Starting TRC file detection...
+Process Name: BrainQuickAgent, Process ID: 15596
+Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+BrainQuickAgent Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+No TRC file reference found in BrainQuickAgent command line.
+Final Result: No TRC file detected.
+Starting TRC file detection...
+Process Name: BrainQuickAgent, Process ID: 15596
+Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+BrainQuickAgent Command Line: "C:\Program Files\Micromed\BrainQuickEEG\BrainQuickAgent.exe" port:5100
+No TRC file reference found in BrainQuickAgent command line.
+Final Result: No TRC file detected.
+Detected TRC file from Brain Quick: 
+Error: No TRC file found in Brain Quick.
+Starting TRC file detection...
+Final Result: No TRC file detected.
+Starting TRC file detection...
+Final Result: No TRC file detected.
+Detected TRC file from Brain Quick: 
+Error: No TRC file found in Brain Quick.
